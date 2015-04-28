@@ -108,6 +108,7 @@ class Hello(object):
     <form method=\"post\" action=\"dowork\">
         <fieldset>
         <legend>齒輪參數表單:</legend>
+        40223140<br />
         齒數:<br />
         <input type=\"text\" name=\"N\"><br />
 
